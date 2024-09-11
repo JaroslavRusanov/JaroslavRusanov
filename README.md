@@ -8,5 +8,5 @@ I have been learning to code for 1 year. At this moment I'm a student of Hexlet'
 
 * 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [sco.nuff@gmail.com](mailto:sco.nuff@gmail.com) or [telegram](https://t.me/hecfyjd)
-* 🧠  I'm learning JS/TS and Web development
+* 🧠  I'm frontend developer
 * 🤝  I'm open to collaborating on any project as a frontend developer
