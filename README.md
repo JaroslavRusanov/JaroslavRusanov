@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I have been learning to code for 1 year. At this moment I'm a student of Hexlet's course, stack - frontend developer. I'm planning to switch my carrier from electricity engineering to IT developer.
+At this moment I'm looking for a job for a position junior frontend developer
 
 * 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [sco.nuff@gmail.com](mailto:sco.nuff@gmail.com) or [telegram](https://t.me/hecfyjd)
