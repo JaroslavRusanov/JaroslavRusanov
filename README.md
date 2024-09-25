@@ -8,5 +8,4 @@ At this moment I'm looking for a job for a position frontend developer
 
 * 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [sco.nuff@gmail.com](mailto:sco.nuff@gmail.com) or [telegram](https://t.me/hecfyjd)
-* 🧠  I'm frontend developer
 * 🤝  I'm open to collaborating on any project as a frontend developer
