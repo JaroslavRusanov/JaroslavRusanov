@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-At this moment I'm looking for a job for a position junior frontend developer
+At this moment I'm looking for a job for a position frontend developer
 
 * 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [sco.nuff@gmail.com](mailto:sco.nuff@gmail.com) or [telegram](https://t.me/hecfyjd)
